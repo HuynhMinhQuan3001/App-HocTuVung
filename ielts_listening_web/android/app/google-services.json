@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983635513077",
+    "project_id": "ielts-listening-1f472",
+    "storage_bucket": "ielts-listening-1f472.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983635513077:android:699e8da827b97bee50ffbc",
+        "android_client_info": {
+          "package_name": "com.example.ielts_listening_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPD2rMyCmHb19cbzzqfucqMY27lyU1l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983635513077:android:d19fa73362bd8c9c50ffbc",
+        "android_client_info": {
+          "package_name": "com.ieltslistening"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPD2rMyCmHb19cbzzqfucqMY27lyU1l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
